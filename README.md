@@ -4,8 +4,7 @@
 ![Image 1](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/1.png?raw=true)
 ![Image 2](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/2.png?raw=true)
 ![Image 3](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/3.png?raw=true)
-![Image 4](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/4.png?raw=true)
-![Image 5](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/5.png?raw=true)
+
 
 
 # References
